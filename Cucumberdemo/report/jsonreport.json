@@ -1,0 +1,98 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 678500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookesDemoExample.beforethone()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "this scenario is expalination of hooks",
+        "description": "",
+        "id": "this-is-hooks-expalination;this-scenario-is-expalination-of-hooks",
+        "after": [
+          {
+            "result": {
+              "duration": 329500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookesDemoExample.afterthons()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 319314000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "thonse has infinty stone",
+            "match": {
+              "location": "HookesDemoExample.thonse_has_infinty_stone()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 107500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "thonse sanp his finger",
+            "match": {
+              "location": "HookesDemoExample.thonse_sanp_his_finger()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 149600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "thonse killed all the avanger",
+            "match": {
+              "location": "HookesDemoExample.thonse_killed_all_the_avanger()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 294200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "thonse destoyed half the world",
+            "match": {
+              "location": "HookesDemoExample.thonse_destoyed_half_the_world()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "this is hooks expalination",
+    "description": "",
+    "id": "this-is-hooks-expalination",
+    "keyword": "Feature",
+    "uri": "hookesdemo.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Hooks"
+      }
+    ]
+  }
+]
